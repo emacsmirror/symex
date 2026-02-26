@@ -1230,6 +1230,7 @@ You could think of ``w'' as ``wrap'' in this context, as in, ``to wrap with pare
 @chapter The Symex DSL
 
 @cindex Symex DSL, the
+@cindex DSL, Symex
 
 The Symex DSL powers many of Symex's features, and you can use it, too.
 
