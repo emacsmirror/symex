@@ -500,6 +500,8 @@ Or, if you prefer, evaluate this expression using @code{C-x C-e}:
 (elacarte-discover-recipes-by-url "https://github.com/drym-org/symex.el")
 @end lisp
 
+This adds package recipes for Symex and its dependencies to your Elacarte cookbook, making it easy to install them.
+
 @item Declare the packages you want to use in your config, as usual (@xref{Installing Symex} for descriptions of the Symex packages). For example:
 
 @lisp
